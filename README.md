@@ -1,4 +1,3 @@
 # bro-w8asec.git
 
-abcdefghijklmnopqrstuvwxyz
-ABCDEF
+I am Thurston.
